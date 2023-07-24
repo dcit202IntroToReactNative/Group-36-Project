@@ -10,17 +10,17 @@ The app will allow users to do the following:
 •	Icon and color
 •	Recycle bin
 
-ID and GITHUB USERNAME of Group 36
-10962728, Perseveranse
-10975012, Manuellarbi597 
-10987269, Osei-Nathan 
-10955764, Buxton15 
-10970794, SALLY-QUANSAH 
-10979834, callmerichrich 
-10963188, LouisaPowers 
-10975116, abubakarsadiq12 
-10949837, emkwart
-10950761, TAWIAH GODFRED
+GITHUB USERNAME and ID of Group 36
+Perseveranse-10962728,
+Manuellarbi597-10975012,  
+Osei-Nathan-10987269, 
+Buxton15-10955764,  
+SALLY-QUANSAH-10970794, 
+callmerichrich-10979834,  
+LouisaPowers-10963188, 
+abubakarsadiq12-10975116,  
+emkwart-10949837, 
+TAWIAH GODFRED-10950761.
 
 Roles and Responsibility of members
 •	Editing styles- font size and styles- Miss Louisa
@@ -28,7 +28,7 @@ Roles and Responsibility of members
 •	Header and body- Miss Sally
 •	Search bar- Mr. Sadiq
 •	Save and delete-  Mr. Alex
-•	Auto save- Mr. Cornelius
+•	Auto save- Mr. Cornelius(Perseveranse)
 •	Icons and color- Mr. Baxton
 •	Interface – Mr. Emmanuel
 •	Interface- Mr. Godfred
