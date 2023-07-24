@@ -1,6 +1,15 @@
 # Group-36-Project
 We are buiding an app which users will be able to take note in.
-The app will allow users to add new note, save them and also edit them.
+The app will allow users to do the following:
+•	Editing styles: This includes the font size, styles, and colors
+•	Optional modes: Light and dark mode
+•	Heading and body in for notes
+•	Search bar
+•	Auto save: The user would be able to switch it on or off
+•	Save and delete
+•	Icon and color
+•	Recycle bin
+
 ID and GITHUB USERNAME of Group 36
 10962728, Perseveranse
 10975012, Manuellarbi597 
@@ -14,4 +23,14 @@ ID and GITHUB USERNAME of Group 36
 10950761, TAWIAH GODFRED
 
 Roles and Responsibility of members
-10962728, Perseverance-Creating the first interface of the app when the user logs in.
+•	Editing styles- font size and styles- Miss Louisa
+•	Modes- Light and dark- Mr. Nathan
+•	Header and body- Miss Sally
+•	Search bar- Mr. Sadiq
+•	Save and delete-  Mr. Alex
+•	Auto save- Mr. Cornelius
+•	Icons and color- Mr. Baxton
+•	Interface – Mr. Emmanuel
+•	Interface- Mr. Godfred
+•	Recycle bin- Mr. Larbi
+
