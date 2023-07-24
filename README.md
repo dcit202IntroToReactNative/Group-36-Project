@@ -1,7 +1,6 @@
 # Group-36-Project
 We are buiding an app which users will be able to take note in.
 The app will allow users to add new note, save them and also edit them.
-Moreover Users will be able to delete note already taken.
 ID and GITHUB USERNAME of Group 36
 10962728, Perseveranse
 10975012, Manuellarbi597 
